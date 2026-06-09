@@ -21,7 +21,7 @@ enum Notes{
 
 }
 
-public class C08_Enum {
+public class A01_Enum {
     public static void main(String args[])
     {
         //prints individual enum constant

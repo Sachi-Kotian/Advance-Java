@@ -1,4 +1,4 @@
-public class C11_Throw {
+public class A04_Throw {
     public static void main(String args[])
     {
         int i=20;

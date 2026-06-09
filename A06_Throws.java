@@ -6,7 +6,7 @@ class A{
     }
 }
 
-public class C13_Throws {
+public class A06_Throws {
 
     public static void main(String args[])
     {

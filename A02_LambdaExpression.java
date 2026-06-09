@@ -8,7 +8,7 @@ interface Calculator{
     int add(int a,int b);
 }
 
-public class C09_LambdaExpression {
+public class A02_LambdaExpression {
     public static void main(String args[])
     {
         Chocolate c=price->

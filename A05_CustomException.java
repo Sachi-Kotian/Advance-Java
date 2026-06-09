@@ -6,7 +6,7 @@ class MyException extends Exception{
     
 }
 
-public class C12_CustomException {
+public class A05_CustomException {
     public static void main(String args[])
     {
         int i=20;

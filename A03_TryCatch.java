@@ -1,4 +1,4 @@
-public class C10_TryCatch {
+public class A03_TryCatch {
     public static void main(String args[])
     {
         //int i=0;    will give arithmetic exception
